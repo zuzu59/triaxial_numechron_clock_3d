@@ -1,13 +1,15 @@
 # triaxial_numechron_clock_3d
 Code moteur pas à pas pour horloge Triaxial Numechron
 
-zf240102.1228
+zf240102.1613
 
 
 ## Buts
-Piloter un moteur pas à pas pour l'horloge Triaxial Numechron Clock imprimé en 3D
+Piloter un moteur pas à pas pour l'horloge Triaxial Numechron Clock imprimée en 3D
 
-https://www.thingiverse.com/thing:6285769
+https://www.instructables.com/Triaxial-Numechron-Clock/
+
+https://youtu.be/kwh-mdT3Mbk?si=BuoiwgjxSWPXeMGB
 
 
 ## Moyens
@@ -16,17 +18,23 @@ On va utiliser, dans cette version 1.0, un Arduino Nano 3 pour piloter le petit 
 https://www.thingiverse.com/thing:5145523
 
 
-## Sources
-Horloge:
+### Correction de la déviation de l'horloge
+Tout est indiqué au Step 10: Tuning of the Clock Speed de
 
+https://www.instructables.com/Triaxial-Numechron-Clock/
+
+
+## Sources
+### Horloge
+https://www.instructables.com/Triaxial-Numechron-Clock/
+
+### Fichiers 3D
 https://www.thingiverse.com/thing:6285769
 
-Boîtier pour l'électronique:
-
+### Boîtier pour l'électronique
 https://www.thingiverse.com/thing:5145523
 
-Code Arduino original:
-
+### Code Arduino original
 https://www.thingiverse.com/thing:6285769/files
 
 

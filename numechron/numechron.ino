@@ -1,3 +1,10 @@
+//zf240102.1614
+// License CC BY-NC-SA
+// Hide-away unit case for Arduino nano and 28BYJ-48 stepper motor
+// by shiura is licensed under the Creative Commons - Attribution - Non-Commercial - Share Alike license. 
+// https://www.thingiverse.com/thing:5145523
+// https://www.thingiverse.com/shiura/designs
+
 // Tune the following value if the clock gains or loses. Positive value slows down your clock.
 // ex. if your clock gains 100seconds per 24hours, this value should be 100.
 #define COMPENSATION_SECONDS 0
